@@ -1,3 +1,5 @@
+Following tutorial https://www.youtube.com/watch?v=vCOSTG10Y4o
+
 ## Getting Started
 
 First, install the dependencies:
