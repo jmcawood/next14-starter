@@ -1,7 +1,11 @@
 import Image from 'next/image'
 import styles from './contact.module.css'
 
+
 const ContactPage = () => {
+    
+    console.log('Lets check where it works');
+    
     return (
         <div className={styles.container}>
             <div className={styles.imgContainer}>
